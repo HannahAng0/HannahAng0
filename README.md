@@ -13,4 +13,3 @@ Thank you so much!
 
 
 <img src="https://i.pinimg.com/originals/05/6c/58/056c584d9335fcabf080ca43e583e3c4.gif"/>
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/677e6b0670129741a83dd53e?variant=light&roadmaps=frontend" alt="roadmap.sh"/></a>
